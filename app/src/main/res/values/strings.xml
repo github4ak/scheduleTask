@@ -28,4 +28,12 @@
     <string name="btn_sign_out">Sign Out</string>
     <string name="lbl_forgot_password">Forgot password?</string>
     <string name="forgot_password_msg">We need your registered Email Id to send password reset instructions.</string>
+
+    <string-array name="nav_list_titles">
+        <item>Home</item>
+        <item>Change Email</item>
+        <item>Change Password</item>
+        <item>Send reset password</item>
+        <item>Sign Out</item>
+    </string-array>
 </resources>
